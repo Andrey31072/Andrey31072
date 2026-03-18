@@ -1,3 +1,11 @@
+<!--
+CONFIG
+FULL_NAME: Kevin Andrey Culma Gómez
+GITHUB_USER: Andrey31072
+EMAIL: kevinandreyculmagome@gmail.com
+CODE_ORGANIZATION: code-sena
+-->
+
 # 👨🏻‍💻 Kevin Andrey Culma Gómez
 
 ## 📌 Sobre mí
